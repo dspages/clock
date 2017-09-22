@@ -1,0 +1,21 @@
+#onload {
+  background: linear-gradient(to bottom right, purple, darkblue);
+  font-size: 36px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 150px;
+  border: 3px solid black;
+  border-radius: 8px;
+  margin-top: 50px;
+}
+
+html {
+  background: linear-gradient(to bottom, white, grey);
+  display: flex;
+  align-items: top;
+  justify-content: center;
+  height: 100%;
+}
